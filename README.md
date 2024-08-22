@@ -14,7 +14,7 @@ I graduated with a bachelor's degree in **"Intelligent Systems and Machine Learn
 
 ## 🏆 Achievements
 
-I’m a dedicated member of the ![Static Badge](https://img.shields.io/badge/DataForce-D33847?style=flat&logo=rocket&logoColor=white) team, where I contribute to solving complex problems and creating innovative data-driven solutions:
+I’m a dedicated member of the [![Static Badge](https://img.shields.io/badge/DataForce-D33847?style=flat&logo=rocket&logoColor=white)](https://github.com/Arctic-Data-Force) team, where I contribute to solving complex problems and creating innovative data-driven solutions:
 
 - 📍 25.06.2023 – 4th Place at the "Digital Breakthrough. Season: Artificial Intelligence" (Ural Federal District) hackathon.  
 - 🥇 27.08.2023 – 1st Place at the "Digital Breakthrough. Season: Artificial Intelligence" (North-West Federal District) hackathon.  
