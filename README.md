@@ -16,7 +16,6 @@ I graduated with a bachelor's degree in **"Intelligent Systems and Machine Learn
 
 I’m a dedicated member of the [![Static Badge](https://img.shields.io/badge/DataForce-D33847?style=flat&logo=rocket&logoColor=white)](https://github.com/Arctic-Data-Force) team, where I contribute to solving complex problems and creating innovative data-driven solutions:
 
-- 📍 25.06.2023 – 4th Place at the "Digital Breakthrough. Season: Artificial Intelligence" (Ural Federal District) hackathon.  
 - 🥇 27.08.2023 – 1st Place at the "Digital Breakthrough. Season: Artificial Intelligence" (North-West Federal District) hackathon.  
 - 🥉 10.09.2023 – 3rd Place at the "Digital Breakthrough. Season: Artificial Intelligence" (All-Russian) hackathon.  
 - 🥇 19.05.2024 – 1st Place at the "Digital Breakthrough. Season: Artificial Intelligence" (Ural Federal District) hackathon. 
